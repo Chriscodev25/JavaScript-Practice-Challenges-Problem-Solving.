@@ -1,0 +1,2 @@
+// fizzBuzz
+function fizzBuzz() {}
